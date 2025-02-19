@@ -15,7 +15,7 @@ This repository contains a Jupyter Notebook for **Customer Churn Prediction**, w
 ## 🛠 Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/repository-name.git
+   git clone https://github.com/anbu-001/Customer-churn.git
    ```
 2. Open the notebook in Jupyter or Google Colab.
 3. Run the notebook to train the model and analyze results.
