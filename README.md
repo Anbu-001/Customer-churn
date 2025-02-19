@@ -4,7 +4,7 @@ This repository contains a Jupyter Notebook for **Customer Churn Prediction**, w
 
 ## 📂 Contents
 - `Customer Churn Prediction.ipynb` – Main notebook for data analysis and model building.
-- 📊 Dataset (if applicable) – Contains customer data used for training and evaluation.
+- 📊 Dataset (WA_Fn-UseC_-Telco-Customer-Churn.csv) – Contains customer data used for training and evaluation.
 
 ## 🚀 Features
 - ✅ Data Preprocessing
