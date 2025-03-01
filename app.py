@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 from flask import Flask, render_template, request
 import pandas as pd
 import pickle
@@ -120,4 +119,3 @@ def index():
 
 if __name__ == '__main__':
     app.run(debug=True)
->>>>>>> 502ca1f5e3e5389ca9e958127b194c796c82b587
